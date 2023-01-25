@@ -6,6 +6,8 @@ public class q106 {
 		int c = 30;
 		
 		System.out.printf("%d + %d = %d",a,b,c);
+		System.out.println();
+		System.out.println(a+b+c);
 	}
 
 }
